@@ -8,6 +8,7 @@ addons:
             - optipng
 
 sudo: false
+dist: precise
 
 cache:
     directories:
